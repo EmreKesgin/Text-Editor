@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Voljin/CLionProjects/Term Project/genDLList.cpp
+genDLList.h
+C:/Users/Voljin/CLionProjects/Term Project/genDLList.h
+fstream
+-
+vector
+-
+
+C:/Users/Voljin/CLionProjects/Term Project/genDLList.h
+iostream
+-
+vector
+-
+
+C:/Users/Voljin/CLionProjects/Term Project/main.cpp
+iostream
+-
+vector
+-
+genDLList.h
+C:/Users/Voljin/CLionProjects/Term Project/genDLList.h
+genDLList.cpp
+C:/Users/Voljin/CLionProjects/Term Project/genDLList.cpp
+
